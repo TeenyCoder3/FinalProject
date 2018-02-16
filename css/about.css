@@ -1,0 +1,18 @@
+.selfie {
+    float: left;
+}
+
+.bio-column {
+    width: 45%;
+    padding: 2.5%;
+    float: right;
+    min-height: 250px;
+    text-align: justify;
+}
+
+.main-footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}

@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lobster', cursive;
+}
+
+.contact-column {
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+
+.form-container {
+    width: 50%;
+}
+
+.map-container {
+    width: 75%;
+    margin: 0 auto;
+    clear: both;
+}
